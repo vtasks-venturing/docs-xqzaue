@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-cvr9i4.nuansa138.xyz/sitemap.xml
